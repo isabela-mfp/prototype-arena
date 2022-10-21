@@ -1,6 +1,6 @@
 # Prototype Arena
 
-## A simplified version of Summoners War for Artificial Intelligence research. Project for final paper (POC-I and POC-II) in Computer Science - UFMG
+### A simplified version of Summoners War for Artificial Intelligence research. Project for final paper (POC-I and POC-II) in Computer Science - UFMG
 
 <img src="example-image.png" alt="menu">
 
@@ -32,9 +32,5 @@ To use Prototype Arena, just open it in Godot.
 ```
 This game wasn't exported to .exe yet
 ```
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Back to Top](#nome-do-projeto)<br>
